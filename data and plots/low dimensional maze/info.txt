@@ -1,0 +1,4 @@
+two base models: test0002 and test0003
+
+test0002, successes: 3, failures: 19
+test0003, successes: 21, failures: 1 
