@@ -17,6 +17,12 @@
 .. |License| image:: https://img.shields.io/badge/license-MIT-blue.svg
 .. _License: https://github.com/VinF/deer/blob/master/LICENSE
 
+Component Transfer Learning for Deep RL Based on Abstract Representations
+=========================================================================
+This repo contains all the source code and experiment data of the NeurIPS workshop paper: https://arxiv.org/abs/2111.11525 .
+The code is a fork from the DeeR repo from Vincent Francois Lavet. In this fork I have added 1) a transfer learning approach based on freezing the dynamics and policy network and 2) tools to visualize/analyze experiment such as scripts to train/evaluate a RL agent, or tools to visualize the embedding space. 
+
+
 DeeR
 ====
 
@@ -36,8 +42,3 @@ Full Documentation
 ==================
 
 The documentation is available at : http://deer.readthedocs.io/
-
-
-
-Tools Quickstart
-================
